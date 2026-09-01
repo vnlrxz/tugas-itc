@@ -1,0 +1,18 @@
+section {
+    height: 2110vh;
+}
+#hai {
+    background-color: rgb(193, 116, 116);
+}
+#about {
+    background-color: aliceblue;
+}
+#contact {
+    background-color: blue;
+}
+#blog {
+    background-color: brown;
+}
+#font {
+    font-size: 40px;
+}
